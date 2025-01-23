@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202603776054",
+    "project_id": "tmanagehub-d324d",
+    "storage_bucket": "tmanagehub-d324d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202603776054:android:4d421e373a2fe29f8e3097",
+        "android_client_info": {
+          "package_name": "com.fluttergang.tmanagehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGwnnbViuKlscJXUr7OMTAcoEJn8wx7JY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
